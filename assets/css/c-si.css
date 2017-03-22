@@ -18,7 +18,7 @@ header ul a {
   font-size: 14px;
   color: #069;
   display: block;
-  text-align: center;
+  text-align: left;
   padding-top: 6px;
   height: 34px;
 }
@@ -26,5 +26,5 @@ header ul a {
 
 header li{
   float:none;
-  width: auto;
+  width:auto;
 }
