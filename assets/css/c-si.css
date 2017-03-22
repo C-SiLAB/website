@@ -3,6 +3,12 @@
 
 @import "style.css";
 
+header ul {
+  list-style: none;
+  padding: 0; 
+}
+
+
 header li{
   float:none;
   width: auto;
