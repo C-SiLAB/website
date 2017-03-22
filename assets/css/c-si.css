@@ -13,6 +13,16 @@ header ul {
   width: auto;
 }
 
+header ul a {
+  line-height: 1;
+  font-size: 14px;
+  color: #069;
+  display: block;
+  text-align: center;
+  padding-top: 6px;
+  height: 34px;
+}
+
 
 header li{
   float:none;
