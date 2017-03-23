@@ -27,4 +27,9 @@ header ul a {
 header li{
   float:none;
   width:auto;
+  border-right: none;
+}
+
+header ul li + li + li{
+  width: auto;
 }
