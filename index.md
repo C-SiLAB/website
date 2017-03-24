@@ -91,11 +91,11 @@ PCR仪
 低速台式离心机
 玻璃器皿和小物件
 
-![三目显微镜](https://github.com/zlong0825/website/三目显微镜.jpg)
+
 ![倒置显微镜](倒置显微镜.jpg?raw=true)
-![生化培养箱](website/生化培养箱.jpg)
-![电泳仪](website/电泳仪.jpg)
-![高速冷冻离心机](website/高速冷冻离心机.jpg)
-![三目显微镜](https://github.com/zlong0825/website/raw/三目显微镜.jpg)
+![生化培养箱](生化培养箱.jpg)
+![电泳仪](电泳仪.jpg)
+![高速冷冻离心机](高速冷冻离心机.jpg)
+![三目显微镜](三目显微镜.jpg)
 
 **智能制造设备**
